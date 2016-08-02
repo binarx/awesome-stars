@@ -17,6 +17,8 @@
     - [Java](#java)
     - [JavaScript](#javascript)
     - [Kotlin](#kotlin)
+    - [Makefile](#makefile)
+    - [Objective-C](#objective-c)
     - [Others](#others)
     - [PHP](#php)
     - [PowerShell](#powershell)
@@ -154,6 +156,14 @@
 
 * [DynamicReturnTypePlugin](https://github.com/pbyrne84/DynamicReturnTypePlugin) - 
 
+## Makefile
+
+* [Dockerfiles](https://github.com/EvaEngine/Dockerfiles) - Development environment of EvaEngine, based on Docker
+
+## Objective-C
+
+* [phalapi](https://github.com/phalapi/phalapi) - A light-weight framework focus on how to develop API faster and simple.
+
 ## Others
 
 * [mson](https://github.com/apiaryio/mson) - Markdown Syntax for Object Notation
@@ -172,6 +182,7 @@
 
 ## PHP
 
+* [crontab](https://github.com/yii2tech/crontab) - Yii2 extension for crontab support
 * [Slim](https://github.com/slimphp/Slim) - Slim Framework source code
 * [cmlphp](https://github.com/linhecheng/cmlphp) - php framework / php开发框架
 * [laravel-5-blog](https://github.com/yccphp/laravel-5-blog) - 一个用 laravel 5 开发的 博客系统
@@ -221,6 +232,7 @@
 
 ## Python
 
+* [starred](https://github.com/maguowei/starred) - creating your own Awesome List used GitHub stars!
 * [DeepLearningTutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Deep Learning Tutorial notes and code. See the wiki for more info.
 * [instavpn](https://github.com/sockeye44/instavpn) - the most user-friendly L2TP/IPsec VPN server
 * [shadowsocks](https://github.com/shadowsocks/shadowsocks) - 
